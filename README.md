@@ -6,9 +6,15 @@ A modern and responsive frontend recreation of the Android by Google official we
 
 ## ✨ Live Demo
 
-> ⚠️ **Best viewed on Desktop / Laptop for better experience.**
-> 📱 Responsive design works on **Mobile, Tablet, and Desktop.**
-> 🔗 **Social media buttons** open Android official pages.
+
+
+.
+>
+> > 📱 Responsive design works on **Mobile, Tablet, and Desktop.**
+> 🔗 **Social media buttons** open Android official pages
+> THE DEMO LINK : https://heroic-blini-686005.netlify.app/
+
+
 
 ---
 
